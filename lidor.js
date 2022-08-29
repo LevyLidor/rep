@@ -1,5 +1,5 @@
 function fooClick(){
 
-alert('Hello')
+alert('WHY SO SERIOUS')
 
 }
