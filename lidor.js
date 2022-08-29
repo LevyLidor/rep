@@ -1,0 +1,5 @@
+function fooClick(){
+
+alert('Hello')
+
+}
